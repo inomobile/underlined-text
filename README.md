@@ -22,7 +22,7 @@ pod 'UnderlinedText'
 
 ## Author
 
-Anton, a.tekutov@inostudio.com
+Mobile team of Inostudio.
 
 ## License
 
