@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UnderlinedText_Example' do
+  pod 'UnderlinedText', :path => '../'
+
+  target 'UnderlinedText_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
